@@ -83,8 +83,9 @@ public class T1_IntermediateOp {
     }
 
 }
-
 class  Employee{
+    int x = 45;
+    String n = "newe";
     public Employee(String name, int age) {
         this.name = name;
         this.age = age;
